@@ -9,4 +9,4 @@ Leetcode is an online platform where we can practice our coding skills. In this 
 
 |Number of Problems| Leetcode Problem | Level | Solution | Tutorial Video | 
 |--------|----------|-------|------|--------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/Anjitha95/leetcodeinpython/blob/master/solution/two_sum.py) |  [two sum](https://www.youtube.com/watch?v=s-xynO6Aiew)| 
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/Anjitha95/leetcodeinpython/blob/master/solution/two_sum.py) |  [Two sum](https://www.youtube.com/watch?v=s-xynO6Aiew)| 
