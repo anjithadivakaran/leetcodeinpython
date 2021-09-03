@@ -17,3 +17,4 @@ Leetcode is an online platform where we can practice our coding skills. In this 
 |6|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|Hard|[Regular_Expression_Matching.py](https://github.com/Anjitha95/leetcodeinpython/blob/master/solution/Regular_Expression_Matching.py)| O(TP)|N/A
 |7|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|Easy|[romantodigit.py](https://github.com/Anjitha95/leetcodeinpython/blob/master/solution/romantodigit.py)| O(n)|N/A
 |8|[House Robber ](https://leetcode.com/problems/house-robber/) |Medium| [houserobber.py](https://github.com/Anjitha95/leetcodeinpython/blob/master/solution/houserobber.py) | O(n) | N/A
+|9|[Array Nesting](https://leetcode.com/problems/array-nesting/) | Medium |[arraynesting.py](https://github.com/Anjitha95/leetcodeinpython/blob/master/solution/arraynesting.py)| O(n) |n/a
